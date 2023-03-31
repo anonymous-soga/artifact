@@ -1,18 +1,15 @@
 # Artifact
 
-Artifact package for our paper "How do Developers Talk about GitHub Actions?". This reproducible repository includes our data and scripts. 
+Artifact package for our paper "How do Developers Talk about GitHub Actions?". This repository includes our data and scripts. 
 
 ## Data
 1. Data Collection
 	* SO data, i.e., posts, from the official SO data dump (as of October 2021)
 	* GitHub data, i.e., issues, using the GitHub Search API
-2. Data for manual classification
-	* SO post
-	* GitHub issue
-  
+2. Data for manual classification: `SO post` and `GitHub issue`
 	* This data includes: 
-    	1. 3,285 SO posts (Q\_S) with 1,224 accepted SO answers (A\_S)
-    	2. 130 GitHub issues (Q\_G) with 82 closed GitHub issues (A\_G)
+    	- 3,285 SO posts (Q\_S) with 1,224 accepted SO answers (A\_S)
+    	- 130 GitHub issues (Q\_G) with 82 closed GitHub issues (A\_G)
     * The data for manual classification can be found in `post_issue.csv`
     * Data structure: (id, paper_no, type, title, url)
 	    1. paper\_no: the number used in this paper. "P1" and "I1" represent the first SO post and the first GitHub question in our dataset, respectively.
