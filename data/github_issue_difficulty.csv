@@ -1,0 +1,316 @@
+﻿issue_id,type,phase,category,is_comment,is_closed,interval_fir_comment(hour),interval_closed(hour),body_len
+I1,github issue,Construction,component,0,1,,13.81944444,95
+I2,github issue,Construction,dependency,0,1,,11.98694444,90
+I3,github issue,Operation,deployment,0,1,,4.400833333,104
+I4,github issue,Maintenance,efficiency,0,1,,16.50166667,295
+I5,github issue,Construction,trigger event,0,1,,3.123888889,98
+I6,github issue,Maintenance,efficiency,0,1,,3.432777778,79
+I7,github issue,Maintenance,efficiency,0,1,,51.7775,104
+I8,github issue,Operation,deployment,0,1,,22.43166667,191
+I9,github issue,Construction,component,0,1,,0.565,106
+I10,github issue,Construction,configuration,0,1,,466.7563889,166
+I11,github issue,Construction,configuration,1,1,228.3452778,230.6316667,134
+I12,github issue,Construction,configuration,0,1,,179.29,174
+I13,github issue,Construction,configuration,1,1,167.3038889,205.8330556,213
+I14,github issue,Operation,deployment,0,0,,,640
+I15,github issue,Operation,deployment,0,1,,1056.592778,687
+I16,github issue,Construction,configuration,1,1,502.355,502.3366667,679
+I17,github issue,Construction,dependency,1,1,0.011388889,20.48166667,646
+I18,github issue,Construction,dependency,1,1,155.0188889,1131.725833,1546
+I19,github issue,Maintenance,security,1,1,341.2811111,3797.152778,667
+I20,github issue,Construction,dependency,0,0,,,107
+I21,github issue,Construction,configuration,1,1,3.864444444,4.740555556,309
+I22,github issue,Construction,configuration,1,1,295.8772222,5167.683611,3143
+I23,github issue,Construction,configuration,1,1,137.2011111,776.2622222,1445
+I24,github issue,Operation,deployment,1,0,0.128888889,,1505
+I25,github issue,Operation,deployment,0,0,,,549
+I26,github issue,Construction,dependency,0,0,,,241
+I27,github issue,Maintenance,efficiency,0,0,,,1142
+I28,github issue,Maintenance,monitoring,0,0,,,615
+I29,github issue,Construction,configuration,0,1,,144.1869444,277
+I30,github issue,Construction,configuration,0,1,,39.49055556,394
+I31,github issue,Maintenance,efficiency,0,0,,,1358
+I32,github issue,Construction,dependency,0,1,,47.01388889,109
+I33,github issue,Operation,deployment,1,0,24.17444444,,1022
+I34,github issue,Maintenance,efficiency,0,0,,,303
+I35,github issue,Maintenance,efficiency,1,0,2.089722222,,1296
+I36,github issue,Maintenance,efficiency,0,0,,,1296
+I37,github issue,Construction,configuration,1,0,4.848888889,,1366
+I38,github issue,Construction,dependency,0,0,,,626
+I39,github issue,Maintenance,efficiency,1,1,1.4,94.99916667,759
+I40,github issue,Construction,configuration,1,0,68.48194444,,89
+I41,github issue,Operation,deployment,1,1,9.084166667,50.20416667,2988
+I42,github issue,Construction,dependency,0,0,,,2015
+I43,github issue,Construction,configuration,0,0,,,354
+I44,github issue,Construction,configuration,1,0,1.789444444,,44
+I45,github issue,Operation,deployment,1,1,0.720555556,0.822777778,189
+I46,github issue,Construction,dependency,0,0,,,189
+I47,github issue,Operation,deployment,0,0,,,657
+I48,github issue,Initialization ,basic usage,1,0,0.09,,193
+I49,github issue,Maintenance,monitoring,0,0,,,41
+I50,github issue,Maintenance,monitoring,1,0,107.8486111,,41
+I51,github issue,Operation,deployment,0,1,,0.184722222,52
+I52,github issue,Operation,containerized services,1,0,0.179722222,,1658
+I53,github issue,Maintenance,monitoring,0,1,,0.615277778,91
+I54,github issue,Maintenance,monitoring,1,0,0.173888889,,91
+I55,github issue,Construction,configuration,1,1,354.8875,354.8875,34
+I56,github issue,Construction,dependency,1,1,7.467222222,87.97,365
+I57,github issue,Maintenance,monitoring,0,0,,,16
+I58,github issue,Operation,deployment,0,0,,,99
+I59,github issue,Construction,dependency,1,1,22.03833333,22.03833333,398
+I60,github issue,Construction,dependency,0,1,,122.0877778,160
+I61,github issue,Maintenance,security,0,0,,,446
+I62,github issue,Construction,dependency,0,1,,521.5330556,51
+I63,github issue,Maintenance,monitoring,0,1,,742.7455556,28
+I64,github issue,Maintenance,monitoring,0,0,,,28
+I65,github issue,Construction,configuration,0,0,,,28
+I66,github issue,Construction,configuration,0,0,,,28
+I67,github issue,Construction,configuration,0,0,,,28
+I68,github issue,Operation,deployment,1,0,10.75416667,,1621
+I69,github issue,Maintenance,efficiency,1,1,145.5255556,152.5933333,317
+I70,github issue,Construction,dependency,0,1,,2.647222222,112
+I71,github issue,Operation,deployment,0,1,,140.0827778,313
+I72,github issue,Operation,deployment,0,1,,0.140555556,268
+I73,github issue,Operation,deployment,0,1,,0.255277778,283
+I74,github issue,Operation,containerized services,1,1,9.063055556,871.5544444,235
+I75,github issue,Maintenance,security,1,0,0.0275,,565
+I76,github issue,Maintenance,security,1,1,173.4666667,173.4666667,1020
+I77,github issue,Construction,dependency,0,1,,432.4338889,126
+I78,github issue,Maintenance,monitoring,1,0,0.288888889,,294
+I79,github issue,Operation,deployment,0,0,,,308
+I80,github issue,Operation,deployment,1,1,1.971388889,28.63638889,1672
+I81,github issue,Construction,configuration,1,0,0.005555556,,971
+I82,github issue,Maintenance,resource management,0,1,,263.7366667,352
+I83,github issue,Construction,dependency,0,1,,0.090555556,87
+I84,github issue,Construction,configuration,0,0,,,543
+I85,github issue,Maintenance,efficiency,0,0,,,781
+I86,github issue,Operation,deployment,1,1,57.62472222,57.62472222,1936
+I87,github issue,Construction,dependency,1,0,2.94,,304
+I88,github issue,Operation,deployment,1,1,0.003055556,0.003333333,26
+I89,github issue,Initialization ,basic usage,0,1,,401.9952778,111
+I90,github issue,Maintenance,monitoring,0,0,,,804
+I91,github issue,Maintenance,monitoring,0,0,,,131
+I92,github issue,Operation,deployment,0,0,,,156
+I93,github issue,Construction,dependency,0,1,,1208.5725,135
+I94,github issue,Construction,dependency,0,0,,,135
+I95,github issue,Construction,configuration,0,1,,53.05833333,785
+I96,github issue,Operation,deployment,0,1,,53.37583333,1728
+I97,github issue,Construction,configuration,0,1,,53.37666667,64
+I98,github issue,Construction,configuration,0,0,,,64
+I99,github issue,Construction,dependency,0,1,,99.98055556,1613
+I100,github issue,Construction,dependency,0,0,,,1613
+I101,github issue,Construction,dependency,1,0,0.093333333,,1613
+I102,github issue,Construction,trigger event,0,1,,146.6888889,1242
+I103,github issue,Maintenance,resource management,0,1,,0.043333333,314
+I104,github issue,Maintenance,resource management,0,1,,0.085833333,290
+I105,github issue,Construction,dependency,0,1,,17.95388889,137
+I106,github issue,Construction,dependency,0,1,,0.058611111,882
+I107,github issue,Construction,configuration,0,1,,0.232777778,882
+I108,github issue,Maintenance,efficiency,1,0,0.721666667,,46
+I109,github issue,Operation,deployment,0,0,,,226
+I110,github issue,Operation,deployment,0,0,,,159
+I111,github issue,Construction,dependency,1,1,76.77666667,99.47138889,207
+I112,github issue,Maintenance,monitoring,0,0,,,468
+I113,github issue,Maintenance,efficiency,0,0,,,1497
+I114,github issue,Maintenance,monitoring,1,1,12.93083333,15.47916667,415
+I115,github issue,Construction,configuration,0,0,,,259
+I116,github issue,Construction,dependency,0,1,,842.2875,542
+I117,github issue,Operation,deployment,1,1,943.8836111,956.5191667,33
+I118,github issue,Maintenance,monitoring,1,1,0.214444444,1386.999167,308
+I119,github issue,Operation,deployment,0,1,,1.119722222,432
+I120,github issue,Construction,configuration,1,1,502.0775,3029.628056,486
+I121,github issue,Construction,dependency,1,1,3.932777778,4.289444444,50
+I122,github issue,Construction,configuration,1,0,0.036388889,,524
+I123,github issue,Operation,containerized services,0,0,,,1657
+I124,github issue,Construction,configuration,0,1,,4883.506111,366
+I125,github issue,Maintenance,monitoring,1,1,6146.811944,6146.811944,972
+I126,github issue,Operation,deployment,1,1,0.294166667,5.026111111,54
+I127,github issue,Maintenance,resource management,1,1,1.831944444,53.32888889,231
+I128,github issue,Construction,dependency,1,1,71.35916667,72.39277778,483
+I129,github issue,Operation,containerized services,1,1,24.75666667,4678.481389,270
+I130,github issue,Construction,configuration,1,1,13.38055556,1261.616389,759
+I131,github issue,Construction,dependency,1,0,4.170555556,,383
+I132,github issue,Operation,deployment,0,1,,135.8638889,286
+I133,github issue,Construction,dependency,0,0,,,242
+I134,github issue,Construction,dependency,0,1,,96.92861111,176
+I135,github issue,Construction,configuration,0,1,,237.8955556,27
+I136,github issue,Construction,dependency,1,0,0.095833333,,459
+I137,github issue,Operation,deployment,1,1,65.9,408.8883333,170
+I138,github issue,Operation,deployment,0,1,,3914.604444,377
+I139,github issue,Construction,dependency,1,1,8.789444444,561.1827778,530
+I140,github issue,Maintenance,security,1,1,2.355277778,261.0127778,168
+I141,github issue,Operation,deployment,1,1,5923.645556,5923.649167,446
+I142,github issue,Maintenance,security,0,0,,,205
+I143,github issue,Maintenance,security,1,1,6.3575,330.8794444,730
+I144,github issue,Initialization ,basic usage,0,0,,,296
+I145,github issue,Construction,dependency,1,1,0.166111111,195.5830556,863
+I146,github issue,Operation,deployment,1,1,0.004444444,0.336388889,2097
+I147,github issue,Operation,deployment,0,0,,,814
+I148,github issue,Construction,configuration,1,0,14.71472222,,412
+I149,github issue,Maintenance,monitoring,1,1,1.877222222,3106.04,918
+I150,github issue,Maintenance,monitoring,0,0,,,918
+I151,github issue,Maintenance,monitoring,0,0,,,918
+I152,github issue,maintenance,resource management,0,0,,,510
+I153,github issue,Construction,dependency,1,0,199.2847222,,1298
+I154,github issue,Maintenance,efficiency,1,1,170.5986111,170.5986111,315
+I155,github issue,Maintenance,efficiency,1,1,170.6230556,170.6230556,317
+I156,github issue,Maintenance,security,1,0,3.388888889,,551
+I157,github issue,Construction,dependency,1,1,0.0075,2327.345556,431
+I158,github issue,Maintenance,monitoring,1,1,0.362777778,3459.851944,722
+I159,github issue,Construction,dependency,0,1,,3485.509167,435
+I160,github issue,Maintenance,efficiency,1,1,9602.065,9602.065,38
+I161,github issue,Operation,deployment,1,1,25.235,101.7205556,271
+I162,github issue,Construction,runner,0,1,,34.05222222,580
+I163,github issue,Operation,deployment,0,1,,85.95055556,1048
+I164,github issue,Operation,deployment,0,1,,459.83,1920
+I165,github issue,Operation,deployment,1,0,1.931111111,,478
+I166,github issue,Maintenance,efficiency,0,0,,,326
+I167,github issue,Construction,configuration,0,1,,127.4725,170
+I168,github issue,Maintenance,efficiency,0,1,,125.3997222,149
+I169,github issue,Initialization ,basic usage,0,1,,531.7455556,239
+I170,github issue,Construction,dependency,0,1,,460.5769444,416
+I171,github issue,Initialization ,basic usage,1,0,0.418333333,,432
+I172,github issue,Maintenance,resource management,1,1,4848.631111,4848.631111,739
+I173,github issue,Construction,configuration,1,1,246.5,281.9633333,25
+I174,github issue,Construction,configuration,1,0,2380.982222,,95
+I175,github issue,Construction,dependency,1,1,3525.338056,3525.338056,44
+I176,github issue,Construction,dependency,1,0,3.286388889,,283
+I177,github issue,Maintenance,efficiency,1,1,0.267222222,3717.601389,835
+I178,github issue,Maintenance,monitoring,1,1,9215.024444,9215.024444,92
+I179,github issue,Construction,dependency,1,1,103.5230556,103.5230556,639
+I180,github issue,Operation,deployment,1,0,10.29805556,,253
+I181,github issue,Operation,deployment,0,1,,1517.743333,149
+I182,github issue,Operation,deployment,0,0,,,26
+I183,github issue,Operation,deployment,1,1,5.285833333,4.408333333,59
+I184,github issue,Operation,deployment,1,1,503.2122222,2022.4325,61
+I185,github issue,Operation,deployment,1,1,53.05638889,201.725,102
+I186,github issue,Construction,dependency,1,1,0.330277778,1611.45,502
+I187,github issue,Construction,dependency,0,1,,23.18472222,0
+I188,github issue,Construction,dependency,0,1,,0.449166667,29
+I189,github issue,Operation,deployment,1,1,91.0375,6717.449722,848
+I190,github issue,Maintenance,resource management,1,1,369.4194444,369.4194444,52
+I191,github issue,Operation,deployment,1,1,54.23138889,2566.104167,862
+I192,github issue,Construction,dependency,1,1,2.667222222,7.008611111,846
+I193,github issue,Construction,dependency,1,1,0.154166667,13363.84861,698
+I194,github issue,Maintenance,security,1,1,14.56638889,14.56638889,1432
+I195,github issue,Operation,deployment,1,1,9.474444444,108.4288889,624
+I196,github issue,Operation,deployment,0,0,,,329
+I197,github issue,Initialization ,basic usage,1,0,0.123611111,,1101
+I198,github issue,Construction,dependency,0,1,,7900.720833,2766
+I199,github issue,Operation,deployment,1,1,0.169722222,2.600555556,506
+I200,github issue,Construction,dependency,0,0,,,1431
+I201,github issue,Construction,configuration,1,1,144.0741667,144.0741667,861
+I202,github issue,Construction,configuration,1,1,0.224166667,48.50111111,258
+I203,github issue,Maintenance,migration,1,1,210.4202778,12502.96944,3547
+I204,github issue,Construction,configuration,1,1,213.7597222,12506.30306,1816
+I205,github issue,Construction,configuration,1,1,53.54,844.8630556,1379
+I206,github issue,Construction,dependency,1,1,24.41805556,1942.489167,268
+I207,github issue,Maintenance,monitoring,1,1,0.844166667,164.8636111,650
+I208,github issue,Operation,deployment,1,1,3462.917778,3462.917778,570
+I209,github issue,Operation,deployment,1,1,457.8847222,4320.613889,163
+I210,github issue,Operation,deployment,1,1,6.205277778,6.205555556,529
+I211,github issue,Maintenance,monitoring,1,1,0.091666667,48.04833333,967
+I212,github issue,Operation,deployment,1,1,11.38472222,22.91944444,565
+I213,github issue,Maintenance,resource management,1,1,0.0575,0.0575,23831
+I214,github issue,Maintenance,efficiency,1,1,0.018333333,398.8588889,857
+I215,github issue,Operation,deployment,1,1,0.034166667,275.5244444,1543
+I216,github issue,Maintenance,efficiency,1,1,3.291111111,935.0255556,1644
+I217,github issue,Operation,deployment,1,1,3.345277778,14831.33056,1829
+I218,github issue,Operation,deployment,1,1,0.067222222,1559.968611,5516
+I219,github issue,Operation,deployment,1,1,46.49888889,15191.29944,526
+I220,github issue,Maintenance,efficiency,1,1,98.24638889,326.0380556,1373
+I221,github issue,Construction,configuration,1,1,13008.75028,13197.80528,92
+I222,github issue,Operation,containerized services,0,0,,,182
+I223,github issue,Maintenance,efficiency,0,0,,,428
+I224,github issue,Maintenance,migration,0,0,,,352
+I225,github issue,Operation,deployment,0,0,,,1340
+I226,github issue,Construction,configuration,1,1,44.09638889,356.875,679
+I227,github issue,Maintenance,monitoring,1,1,16.00638889,53.55638889,242
+I228,github issue,Operation,deployment,1,1,10.475,1092.918889,659
+I229,github issue,Construction,dependency,0,0,,,659
+I230,github issue,Construction,configuration,0,1,,1049.717778,502
+I231,github issue,Operation,containerized services,0,0,,,122
+I232,github issue,Construction,configuration,0,1,,2214.210833,559
+I233,github issue,Operation,containerized services,1,1,199.0702778,2756.624722,481
+I234,github issue,Initialization ,basic usage,1,1,0.029722222,148.4925,395
+I235,github issue,Initialization ,basic usage,0,1,,246.7,395
+I236,github issue,Operation,deployment,1,0,0.012777778,,987
+I237,github issue,Construction,trigger event,0,1,,653.6955556,633
+I238,github issue,Construction,trigger event,1,1,54.64333333,4.972777778,588
+I239,github issue,Construction,configuration,1,1,614.6008333,642.8466667,527
+I240,github issue,Operation,deployment,1,1,139.595,139.595,558
+I241,github issue,Construction,dependency,1,1,744.6577778,1393.623056,809
+I242,github issue,Construction,dependency,0,0,,,892
+I243,github issue,Maintenance,monitoring,1,1,141.2041667,431.8975,790
+I244,github issue,Operation,deployment,0,1,,1780.661389,580
+I245,github issue,Construction,dependency,1,1,0.058888889,600.5891667,673
+I246,github issue,Construction,dependency,1,1,3.170277778,935.8058333,795
+I247,github issue,Operation,deployment,1,1,0.008888889,70.81527778,246
+I248,github issue,Construction,dependency,1,0,48.26138889,,32759
+I249,github issue,Operation,deployment,0,0,,,47
+I250,github issue,Operation,deployment,1,1,59.51194444,,138
+I251,github issue,Construction,configuration,1,1,0.06,,330
+I252,github issue,Construction,dependency,1,1,0.044722222,74.07305556,1358
+I253,github issue,Maintenance,monitoring,0,0,,,1100
+I254,github issue,Operation,deployment,1,1,0.152777778,1.480555556,381
+I255,github issue,Maintenance,efficiency,0,0,,,860
+I256,github issue,Maintenance,efficiency,1,1,626.0711111,626.0711111,891
+I257,github issue,Maintenance,efficiency,0,0,,,63
+I258,github issue,Maintenance,efficiency,0,0,,,63
+I259,github issue,Operation,deployment,1,1,0.240555556,0.586111111,152
+I260,github issue,Maintenance,resource management,0,0,,,178
+I261,github issue,Construction,configuration,0,1,,466.1516667,349
+I262,github issue,Operation,containerized services,0,0,,,603
+I263,github issue,Maintenance,security,1,1,486.75,486.75,365
+I264,github issue,Maintenance,security,0,1,,0.009722222,381
+I265,github issue,Operation,deployment,1,1,88.22277778,88.22277778,109
+I266,github issue,Maintenance,monitoring,1,1,73.10777778,73.10777778,1207
+I267,github issue,Maintenance,security,1,1,0.412777778,,235
+I268,github issue,Construction,dependency,0,0,,,235
+I269,github issue,Construction,runner,1,1,0.004166667,0.004166667,230
+I270,github issue,Construction,runner,1,1,1.433055556,358.0016667,960
+I271,github issue,Construction,dependency,1,1,0.058055556,2421.940556,337
+I272,github issue,Maintenance,resource management,0,1,,121.6358333,86
+I273,github issue,Construction,dependency,0,1,,1651.619167,494
+I274,github issue,Maintenance,resource management,0,0,,,340
+I275,github issue,Maintenance,resource management,1,1,689.8663889,,340
+I276,github issue,Maintenance,migration,0,1,,3110.8375,185
+I277,github issue,Initialization ,basic usage,1,1,2.917222222,,398
+I278,github issue,Construction,configuration,1,1,3144.758333,3144.758333,44
+I279,github issue,Maintenance,monitoring,1,1,0.541944444,964.8208333,505
+I280,github issue,Construction,configuration,0,1,,1687.389444,139
+I281,github issue,Construction,configuration,0,0,,,139
+I282,github issue,Maintenance,security,0,0,,,145
+I283,github issue,Maintenance,resource management,0,1,,601.3316667,62
+I284,github issue,Operation,containerized services,1,1,168.1186111,1803.402778,1444
+I285,github issue,Operation,deployment,0,1,,17.44777778,2476
+I286,github issue,Construction,dependency,0,1,,1.758055556,81
+I287,github issue,Maintenance,security,1,1,21.82416667,190.2361111,693
+I288,github issue,Maintenance,security,1,1,73.72444444,3048.235556,1326
+I289,github issue,Maintenance,security,1,1,7.397777778,52.44333333,482
+I290,github issue,Maintenance,security,1,1,23.43361111,23.43361111,418
+I291,github issue,Maintenance,security,1,1,0.853611111,25.36583333,254
+I292,github issue,Operation,deployment,1,1,2.618055556,74.28055556,668
+I293,github issue,Construction,dependency,0,1,,0.8075,306
+I294,github issue,Construction,dependency,1,1,980.6552778,,82
+I295,github issue,Operation,deployment,1,1,0.223333333,1.061666667,688
+I296,github issue,Construction,configuration,0,1,,500.6730556,750
+I297,github issue,Construction,configuration,1,1,0.397777778,915.6361111,1007
+I298,github issue,Operation,deployment,0,0,,,211
+I299,github issue,Operation,deployment,1,1,79.14,199.5502778,635
+I300,github issue,Operation,deployment,1,1,0.010277778,0.571944444,140
+I301,github issue,Operation,deployment,1,1,0.014722222,0.016111111,194
+I302,github issue,Operation,deployment,1,1,0.034166667,0.17,118
+I303,github issue,Operation,deployment,1,1,0.075555556,0.400555556,118
+I304,github issue,Operation,deployment,1,1,0.046944444,0.151666667,118
+I305,github issue,Operation,deployment,0,1,,0.610555556,118
+I306,github issue,Operation,deployment,1,1,0.105833333,0.2625,118
+I307,github issue,Operation,deployment,1,1,0.075,0.128888889,118
+I308,github issue,Operation,deployment,0,1,,0.241944444,118
+I309,github issue,Operation,deployment,1,1,0.010277778,0.056944444,118
+I310,github issue,Operation,deployment,1,1,0.041666667,0.340833333,118
+I311,github issue,Operation,deployment,0,1,,0.268333333,118
+I312,github issue,Operation,deployment,0,1,,0.084166667,118
+I313,github issue,Operation,deployment,1,1,0.061666667,0.548611111,118
+I314,github issue,Operation,deployment,0,1,,0.134166667,118
+I315,github issue,Operation,deployment,1,1,0.1725,0.304166667,118
