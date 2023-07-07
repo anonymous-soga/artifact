@@ -24,11 +24,11 @@ Artifact package for our paper "How do Developers Talk about GitHub Actions?". T
         - avgScore, the average score for all the questions of a categpru;
         - avgAns, the average number of answers for all the questions of a category. 
     * Difficulty metrics include:
-	 - ansRate, the percentage of questions of a category with at least one answer;
-  	 - acceptRate, the percentage of questions of a category that have accepted answers;
-       	 - timeFA, the median time needed for questions of a category to receive the first answers, in hours;
-	 - timeAA, the median time needed for questions of a category to receive the accepted answer, in hours; 
-   	 - textSize, the average number of description characters for questions of a category.
+      	- ansRate, the percentage of questions of a category with at least one answer;
+      	- acceptRate, the percentage of questions of a category that have accepted answers;
+      	- timeFA, the median time needed for questions of a category to receive the first answers, in hours;
+      	- timeAA, the median time needed for questions of a category to receive the accepted answer, in hours;
+      	- textSize, the average number of description characters for questions of a category.
 4. The accepted answer examples and detailed discussion of each solution strategy can be found in `solution_strategies.md`
 
 ## Script
