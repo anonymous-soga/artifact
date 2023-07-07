@@ -23,7 +23,7 @@ Artifact package for our paper "How do Developers Talk about GitHub Actions?". T
         - avgFav, the average number of favorites for all the questions of a category;
         - avgScore, the average score for all the questions of a categpru;
         - avgAns, the average number of answers for all the questions of a category. 
-    * post\_issue\_difficulty includes: 
+    * post\_issue\_difficulty includes:
 	- ansRate, the percentage of questions of a category with at least one answer;
   	- acceptRate, the percentage of questions of a category that have accepted answers;
        	- timeFA, the median time needed for questions of a category to receive the first answers, in hours;
