@@ -1,7 +1,7 @@
 | Problem description | Solution strategies | Examples |
 | ---- | ---- | ---- |
-|Unable to find/share workflows   | ① Reuse workflow and workflow templates <br> ② Find all reusable GHA in GitHub’s marketplace |① <br>  ② |
-|Unable to control the GHA process|① Use conditional expression <br> ② Use concurrency |① <br>  ②|
+|Unable to find/share workflows   | ① Reuse workflow and workflow templates <br> ② Find all reusable GHA in GitHub’s marketplace |① https://stackoverflow.com/questions/59230841/does-github-actions-have-templates <br>  ② https://stackoverflow.com/questions/64373957/github-actions-is-there-anywhere-that-lists-them-all |
+|Unable to control the GHA process|① Use conditional expression <br> ② Use concurrency |① https://stackoverflow.com/questions/60589373/how-to-force-to-exit-in-github-actions-step <br>  ②|
 |Unable to manage multiple compone|① Store multiple workflow files in the ‘.github/workflows’ directory <br> ② Use ‘strategy’ for parallel build and different variation <br> ③ Use a single job with multiple steps <br> ④ Use ‘wildcard’ pattern to configure multiple paths in a step  |① <br>  ② <br> ③ <br> ④|
 |Unable to refer to other components|① Define ‘outputs’ that need to be passed to subsequent jobs <br> ② Use action composition to create a single action then reference it |① <br>  ②|
 |Cannot specify/modify actions version | ① Chose the correct version of action <br> ② Use semantic versioning and create a major version for users <br> ③ Move the major version tag (such as v1, v2) <br> ④ Set a dedicate ‘tags’ branch in the ‘on’ attributte |① <br>  ② <br> ③ <br> ④|
